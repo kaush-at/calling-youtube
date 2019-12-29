@@ -1,0 +1,18 @@
+.item {
+    display:flex;
+     /* background-color: darkgray; */
+}
+
+.block-content{
+    width: 55%;
+    float:right;
+    padding: 5px;
+    
+}
+
+.block-image{
+    float:left; 
+    flex:1;
+    width: 42%;
+    padding: 5px;
+}
